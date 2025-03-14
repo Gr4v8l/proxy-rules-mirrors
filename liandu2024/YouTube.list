@@ -1,0 +1,4 @@
+# 来源: https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/YouTube.list
+# 内容: YouTube
+# 数量: 1条
+IP-CIDR,199.16.158.0/24,no-resolve
